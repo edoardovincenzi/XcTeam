@@ -1,9 +1,10 @@
 import { createBrowserRouter } from 'react-router-dom';
+import SignIn from '@/pages/signIn/SignIn';
 
 export const router = createBrowserRouter([
   {
     path: '/',
-    element: <div>Hello world!</div>,
+    element: <SignIn />,
   },
   {
     path: '/hello-word',
