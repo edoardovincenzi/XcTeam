@@ -12,6 +12,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.35.5",
     "firebase": "^10.11.1",
+    "git-filter-repo": "^0.0.30",
     "gpxparser": "^3.0.8",
     "leaflet": "^1.9.4",
     "localforage": "^1.10.0",
